@@ -6,3 +6,7 @@ logs
 *.csv
 db.sqlite3
 postgres_data
+.env
+*.pyc
+.DS_Store
+.idea
