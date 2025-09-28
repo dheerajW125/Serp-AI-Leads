@@ -1,0 +1,8 @@
+.venv
+delivery
+__pycache__
+logs
+*.lock
+*.csv
+db.sqlite3
+postgres_data
